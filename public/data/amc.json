@@ -1,0 +1,26 @@
+[
+  {
+    "id": "C1001",
+    "deviceId": "D1001",
+    "contractType": "AMC",
+    "startDate": "2024-07-01",
+    "endDate": "2025-07-01",
+    "vendor": "MedTech Solutions"
+  },
+  {
+    "id": "C1002",
+    "deviceId": "D1002",
+    "contractType": "CMC",
+    "startDate": "2023-11-15",
+    "endDate": "2024-11-15",
+    "vendor": "BioCare Pvt Ltd"
+  },
+  {
+    "id": "C1003",
+    "deviceId": "D1003",
+    "contractType": "AMC",
+    "startDate": "2024-01-10",
+    "endDate": "2024-07-15",
+    "vendor": "HealthEdge Systems"
+  }
+]

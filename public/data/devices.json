@@ -1,0 +1,29 @@
+[
+  {
+    "id": "D1001",
+    "type": "ECG Machine",
+    "facility": "Apollo Hospital",
+    "status": "Online",
+    "battery": 76,
+    "lastServiceDate": "2025-06-10",
+    "amcStatus": "Active"
+  },
+  {
+    "id": "D1002",
+    "type": "Infusion Pump",
+    "facility": "Fortis Health",
+    "status": "Maintenance",
+    "battery": 22,
+    "lastServiceDate": "2025-05-18",
+    "amcStatus": "Expired"
+  },
+  {
+    "id": "D1003",
+    "type": "Ventilator",
+    "facility": "Max Healthcare",
+    "status": "Offline",
+    "battery": 5,
+    "lastServiceDate": "2025-06-01",
+    "amcStatus": "Active"
+  }
+]

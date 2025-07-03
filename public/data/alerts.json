@@ -1,0 +1,29 @@
+[
+  {
+    "id": "A1001",
+    "deviceId": "D1002",
+    "engineer": "Ravi Sharma",
+    "date": "2025-06-20",
+    "reason": "Battery Failure",
+    "notes": "Battery drained within 2 hours post-charge.",
+    "photo": ""
+  },
+  {
+    "id": "A1002",
+    "deviceId": "D1003",
+    "engineer": "Anita Mehra",
+    "date": "2025-06-25",
+    "reason": "Display Malfunction",
+    "notes": "Display flickers intermittently during boot.",
+    "photo": ""
+  },
+  {
+    "id": "A1003",
+    "deviceId": "D1001",
+    "engineer": "Sanjay Patil",
+    "date": "2025-06-30",
+    "reason": "Connectivity Issue",
+    "notes": "Device fails to connect to Wi-Fi during calibration.",
+    "photo": ""
+  }
+]
