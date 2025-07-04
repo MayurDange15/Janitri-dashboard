@@ -47,14 +47,18 @@ Built with **ReactJS**, **Redux Toolkit**, and **Material UI**, and powered by *
 
 ## 🧱 Folder Structure (Simplified)
 
-src/
-├── components/ # Reusable UI components (e.g. DeviceCard)
-├── layouts/ # Toolpad layout wrapper
-├── modules/ # Core modules (Inventory, AMC, Installations, etc.)
-├── redux/ # Redux store and slices
-├── theme/ # MUI custom theme
-public/
-├── data/ # Demo JSON files (devices, alerts, amc)
+```txt
+janitri-dashboard/
+├── public/
+│   └── data/              # Demo JSON files (devices, alerts, amc)
+└── src/
+    ├── components/        # Reusable UI components (e.g. DeviceCard)
+    ├── layouts/           # Toolpad layout wrapper
+    ├── modules/           # Core modules (Inventory, AMC, Installations, etc.)
+    ├── redux/             # Redux store and slices
+    ├── theme/             # MUI custom theme
+    └── main.tsx           # Entry point
+```
 
 ---
 
@@ -88,8 +92,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-# Mayur Dange
-
+Mayur Dange
 🔗 [janitri-dashboard.vercel.app](https://janitri-dashboard.vercel.app)
 🧠 Built for the Janitri Internship Assignment
 
